@@ -54,7 +54,7 @@ flutter run
 
 Here is the screenshot of the application:
 
-![Screenshot 1](https://github.com/ManojTammineedi/SpringEdge-Assessment/blob/main/lib/images/done.png)
+![Screenshot 1](https://github.com/ManojTammineedi/SpringEdge-Assessment/blob/main/lib/done.png)
 
 ## License
 
