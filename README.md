@@ -48,13 +48,13 @@ flutter run
 
 ## Given Figma Design
 
-![Screenshot](path/to/screenshot1.png)
+![Screenshot](https://github.com/ManojTammineedi/SpringEdge-Assessment/blob/main/lib/images/given.png)
 
 ## Screenshots
 
 Here is the screenshot of the application:
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](https://github.com/ManojTammineedi/SpringEdge-Assessment/blob/main/lib/images/done.png)
 
 ## License
 
